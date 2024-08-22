@@ -1,0 +1,6 @@
+build/
+.vscode/
+todo
+dev/
+sample.cpp
+check.txt
