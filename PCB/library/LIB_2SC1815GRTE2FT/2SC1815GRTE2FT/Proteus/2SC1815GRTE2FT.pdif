@@ -1,0 +1,143 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "2SC1815GRTE2FT"
+   (description "Transistor Silicon NPN Epitaxial Type (PCT process)")
+   (family "TRX")
+   (package "2SC1815GRTE2FT")
+   (attribute "Datasheet Link" "http://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf")
+   (attribute "Geometry.Height" "4.7mm")
+   (attribute "RS Part Number" "")
+   (attribute "RS Price/Stock" "")
+   (attribute "Manufacturer_Name" "Toshiba")
+   (attribute "Manufacturer_Part_Number" "2SC1815GRTE2FT")
+   (gate
+    (symbol "2SC1815GRTE2FT")
+    (pin "B" 3 PS)
+    (pin "E" 1 PS)
+    (pin "C" 2 PS)
+   )
+  )
+  (symbol "2SC1815GRTE2FT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (circle (pt 400 150) (pt 300 -150))
+   )
+   (graphic
+    (stroke 20)
+    (path (pt 300 100) (pt 300 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 50) (pt 400 150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 -50) (pt 400 -150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 -150) (pt 400 -200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 150) (pt 400 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 330 -100) (pt 350 -80) (pt 370 -120) (pt 330 -100))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 20) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 400 -300) (rot 90) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 400 300) (rot 90) (mir X) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "2SC1815GRTE2FT"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.476 3.516)
+      (pt 5.016 3.516)
+      (pt 5.016 -2.75)
+      (pt -2.476 -2.75)
+      (pt -2.476 3.516))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 3.62 -1.75)
+      (pt -1.08 -1.75)
+      (pt -1.28 -1.25)
+      (arc (pt -1.280 -1.250) (pt -1.476 -2.976) (pt 4.016 2.516) (start -223.6) (sweep -158.2))
+      (pt 3.82 -1.25)
+      (pt 3.62 -1.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.08 -1.75)
+      (pt 3.62 -1.75)
+      (pt 3.82 -1.25)
+      (arc (pt 3.820 -1.250) (pt -1.476 -2.976) (pt 4.016 2.516) (start 223.6) (sweep -21.8))
+      (pt -1.28 -1.25)
+      (pt -1.08 -1.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.1 0.1)
+      (arc (pt -2.100 0.100) (pt -2.200 -0.100) (pt -2.000 0.100) (start 180.0) (sweep 90.0))
+      (pt -2.1 -0.1)
+      (arc (pt -2.100 -0.100) (pt -2.200 -0.100) (pt -2.000 0.100) (start 180.0) (sweep -90.0))
+      (pt -2.1 0.1))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 1.270 0.900) (padstack 0))
+   (leg 3 (pt 2.540 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.85)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (model "2SC1815GRTE2FT.stp"
+    (euler 90 0 180)
+    (offset 1.2699999809265137 0 1.8200000524520874)
+   )
+  )
+ )
+)

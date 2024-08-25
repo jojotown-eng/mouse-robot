@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NJM7805FA'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "New Japan Radio", "NJM7805FA" (!) = "", "TO254P500X1000X2170-3P", "Transistor Outline, Vertical", "6571003", "https://uk.rs-online.com/web/p/products/6571003", "Linear Voltage Regulators 5V 1.5A 3 Terminal", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA25/1772503.pdf", "5 mm"
+END_PART
+
+END.

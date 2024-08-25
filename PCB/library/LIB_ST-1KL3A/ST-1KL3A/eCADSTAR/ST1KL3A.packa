@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ST-1KL3A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-05-03-03:18:23)
+    (mountForm default
+        (footprintRef "ST1KL3A")
+        (spec "System")
+    )
+)

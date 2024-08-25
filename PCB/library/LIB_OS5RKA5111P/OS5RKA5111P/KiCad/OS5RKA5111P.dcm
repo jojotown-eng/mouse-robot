@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OS5RKA5111P
+D LED; 5mm; red; 80000100000mcd; 15; Front: convex; Pitch:2.54mm
+K
+F http://akizukidenshi.com/download/ds/optosupply/OS5RKA5111P.pdf
+$ENDCMP
+#
+#End Doc Library

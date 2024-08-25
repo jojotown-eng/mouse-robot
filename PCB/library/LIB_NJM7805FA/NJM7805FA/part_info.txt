@@ -1,0 +1,9 @@
+Manufacturer=New Japan Radio
+PartNumber=NJM7805FA
+PartCategory=Integrated Circuit
+PackageCategory=Transistor Outline, Vertical
+PinCount=3
+Version=3.1
+Released=2016-03-23 09:08:52
+Downloaded=2024-08-23 04:43:31
+3D=Y

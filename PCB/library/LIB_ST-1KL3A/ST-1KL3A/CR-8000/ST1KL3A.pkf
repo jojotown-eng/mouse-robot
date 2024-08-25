@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ST1KL3A"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ST1KL3A")
+        (spec "default")
+    )
+)

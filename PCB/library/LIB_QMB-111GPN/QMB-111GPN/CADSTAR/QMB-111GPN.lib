@@ -1,0 +1,16 @@
+.QMB-111GPN :1 ;Magnetic Sounder
+QMB111GPN
+*STM LS
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN QMB-111GPN
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (Star Micronics LTD)
+~!Manufacturer_Part_Number (QMB-111GPN)
+~!Link Datasheet (-)
+~!Height (8.5mm)
+~!3D_Model (QMB-111GPN)
+QMB-111GPN
+1.1!U 2.1!U 

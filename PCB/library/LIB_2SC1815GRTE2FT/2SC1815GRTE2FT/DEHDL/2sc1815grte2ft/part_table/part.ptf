@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2SC1815GRTE2FT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "2SC1815GRTE2FT" (!) = "", "2SC1815GRTE2FT", "Other", "", "", "Transistor Silicon NPN Epitaxial Type (PCT process)", "http://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf", "4.7 mm"
+END_PART
+
+END.

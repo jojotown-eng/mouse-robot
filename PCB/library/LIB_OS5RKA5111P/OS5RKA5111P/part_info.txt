@@ -1,0 +1,9 @@
+Manufacturer=OptoSupply
+PartNumber=OS5RKA5111P
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=2.6
+Released=2019-12-16 15:40:44
+Downloaded=2024-08-25 01:07:31
+3D=N

@@ -1,0 +1,16 @@
+.NJM7805FA :1 ;Linear Voltage Regulators 5V 1.5A 3 Terminal
+TO254P500X1000X2170-3P
+*STM IC
+*NGS
+*PLB 1="IN" 2="GND" 3="OUT"
+*MXP 3
+*DFN NJM7805FA
+~!RS Part Number (6571003)
+~!Link RS Price/Stock (https://uk.rs-online.com/web/p/products/6571003)
+~!Manufacturer_Name (New Japan Radio)
+~!Manufacturer_Part_Number (NJM7805FA)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA25/1772503.pdf)
+~!Height (5mm)
+~!3D_Model (NJM7805FA)
+NJM7805FA
+1.1!U 2.1!U 3.1!U 

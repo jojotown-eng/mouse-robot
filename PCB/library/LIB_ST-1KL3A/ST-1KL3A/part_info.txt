@@ -1,0 +1,9 @@
+Manufacturer=KODENSHI
+PartNumber=ST-1KL3A
+PartCategory=Phototransistor
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2017-08-25 13:22:12
+Downloaded=2024-08-25 01:05:37
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Star Micronics LTD
+PartNumber=QMB-111GPN
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2019-12-16 17:13:41
+Downloaded=2024-08-25 01:10:27
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '3296W_1_102LF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "ALLIED_NUMBER", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "3296W-1-102LF" (!) = "", "3296W1102LF", "Other", "5219631", "http://uk.rs-online.com/web/p/products/5219631", "70153917", "Trimmer Resistors - Through Hole 3/8" 1Kohms Sealed Vertical Adjust", "http://uk.rs-online.com/web/p/products/5219631", "11.8 mm"
+END_PART
+
+END.

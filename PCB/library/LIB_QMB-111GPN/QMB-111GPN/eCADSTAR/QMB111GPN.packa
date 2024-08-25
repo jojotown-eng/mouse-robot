@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "QMB-111GPN"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-12-16-17:13:41)
+    (mountForm default
+        (footprintRef "QMB111GPN")
+        (spec "System")
+    )
+)

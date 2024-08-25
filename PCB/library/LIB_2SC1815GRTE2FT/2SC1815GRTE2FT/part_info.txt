@@ -1,0 +1,9 @@
+Manufacturer=Toshiba
+PartNumber=2SC1815GRTE2FT
+PartCategory=Transistor BJT NPN
+PackageCategory=Other
+PinCount=3
+Version=2.1
+Released=2017-09-09 20:50:54
+Downloaded=2024-08-25 01:03:54
+3D=Y

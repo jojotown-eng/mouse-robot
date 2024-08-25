@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'QMB_111GPN'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Star Micronics LTD", "QMB-111GPN" (!) = "", "QMB111GPN", "Other", "", "", "Magnetic Sounder", "", "8.5 mm"
+END_PART
+
+END.

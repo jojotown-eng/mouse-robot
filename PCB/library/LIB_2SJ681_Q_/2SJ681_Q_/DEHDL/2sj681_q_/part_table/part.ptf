@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2SJ681_Q_'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "2SJ681(Q)" (!) = "", "TO230P250X650X900-3P", "Transistor Outline, Vertical", "", "", "TOSHIBA Field Effect Transistor Silicon P Channel MOS Type (UMOSIII)", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100039949.pdf", "2.5 mm"
+END_PART
+
+END.

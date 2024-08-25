@@ -1,0 +1,9 @@
+Manufacturer=Costava
+PartNumber=AQM0802A-RN-GBW
+PartCategory=Display
+PackageCategory=Other
+PinCount=9
+Version=1.3
+Released=2019-12-17 12:32:42
+Downloaded=2024-08-25 01:01:53
+3D=N

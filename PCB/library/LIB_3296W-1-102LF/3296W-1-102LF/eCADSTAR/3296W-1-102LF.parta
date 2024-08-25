@@ -1,0 +1,71 @@
+(Japanese_coding: sjis)
+(function "ECS_13418006"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-01-04-16:57:23)
+    (utime 2023-06-22-10:55:39)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "3296W-1-102LF")
+)
+
+
+(pinAssign "ECS_13418006"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-01-04-16:57:23)
+    (utime 2023-06-22-10:55:39)
+    (interface
+        (port "1" (symbPinId 1) (portName "CCW") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "WIPER") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "CW") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_13418006")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "3296W-1-102LF")
+)
+
+
+(part "3296W-1-102LF"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-01-04-16:57:23)
+    (utime 2023-06-22-10:55:39)
+    (packageRef "3296W-1-102LF")
+    (pinAssignRef "ECS_13418006")
+    (interface
+        (port "1" (symbPinId 1) (portName "CCW") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "WIPER") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "CW") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "VR")
+    (property "description" "Trimmer Resistors - Through Hole 3/8\" 1Kohms Sealed Vertical Adjust")
+    (property "RS_Part_Number" "5219631")
+    (property "RS_Price/Stock" "http://uk.rs-online.com/web/p/products/5219631")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "3296W-1-102LF")
+    (property "Allied_Number" "70153917")
+    (property "Datasheet_Link" "http://uk.rs-online.com/web/p/products/5219631")
+    (property "compAreaTopHeight" 11.8)
+)
+
+

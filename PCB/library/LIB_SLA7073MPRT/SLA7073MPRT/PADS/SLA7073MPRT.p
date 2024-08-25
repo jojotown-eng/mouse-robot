@@ -1,0 +1,40 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+SLA7073MPRT SLA7073MPRT I ANA 7 1 0 0 0
+TIMESTAMP 2024.08.23.06.02.39
+"RS Part Number" 
+"RS Price/Stock" 
+"Manufacturer_Name" SANKEN ELECTRIC CO.
+"Manufacturer_Part_Number" SLA7073MPRT
+"Description" IC MOTOR DRIVER PAR 23SLA
+"Datasheet Link" http://www.semicon.sanken-ele.co.jp/sk_content/sla7070mprt_ds_en.pdf
+"Geometry.Height" 16mm
+GATE 1 23 0
+SLA7073MPRT
+1 0 U OUTA_1
+2 0 U OUTA_2
+3 0 U OUTA/_1
+4 0 U OUTA/_2
+5 0 U SENSEA
+6 0 U N.C.
+7 0 U M1
+8 0 U M2
+9 0 U M3
+10 0 U CLOCK
+11 0 U VBB
+12 0 U GND
+13 0 U REF/SLEEP1
+14 0 U VDD
+15 0 U RESET
+16 0 U CW/CCW
+17 0 U SYNC
+18 0 U FLAG
+19 0 U SENSEB
+20 0 U OUTB/_1
+21 0 U OUTB/_2
+22 0 U OUTB_1
+23 0 U OUTB_2
+
+*END*
+*REMARK* SamacSys ECAD Model
+868677/1372192/2.50/23/4/Integrated Circuit

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "OS5RKA5111P"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-27-23:07:10)
+    (mountForm default
+        (footprintRef "OS5RKA5111P")
+        (spec "System")
+    )
+)

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/13418006/1372192/2.50/3/0/Variable Resistor/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c121.7_h71" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="27.952755905511">
+    <padshape layer="TOP" shape="round" width="47.913385826771" height="47.913385826771" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="55.787401574802" height="55.787401574802" />
+    <padshape layer="INNER" shape="round" width="47.913385826771" height="47.913385826771" />
+    <padshape layer="BOTTOM" shape="round" width="47.913385826771" height="47.913385826771" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="55.787401574802" height="55.787401574802" />
+  </padstyle>
+  <footprint name="3296W1102LF" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="c121.7_h71" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c121.7_h71" originx="0" originy="99.999999999999" rotation="90" />
+    <pcbpin number="3" name="3" style="c121.7_h71" originx="0" originy="200" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-95.27559055118" originy="287.59842519685" endx="94.881889763778" endy="287.59842519685" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="94.881889763778" originy="287.59842519685" endx="94.881889763778" endy="-87.598425196849" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="94.881889763778" originy="-87.598425196849" endx="-95.27559055118" endy="-87.598425196849" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-95.27559055118" originy="-87.598425196849" endx="-95.27559055118" endy="287.59842519685" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-95.27559055118" originy="287.59842519685" endx="94.881889763778" endy="287.59842519685" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="94.881889763778" originy="287.59842519685" endx="94.881889763778" endy="-87.598425196849" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="94.881889763778" originy="-87.598425196849" endx="-95.27559055118" endy="-87.598425196849" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-95.27559055118" originy="-87.598425196849" endx="-95.27559055118" endy="287.59842519685" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-134.64566929134" originy="326.968503937" endx="173.22834645669" endy="326.968503937" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="173.22834645669" originy="326.968503937" endx="173.22834645669" endy="-126.96850393701" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="173.22834645669" originy="-126.96850393701" endx="-134.64566929134" endy="-126.96850393701" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-134.64566929134" originy="-126.96850393701" endx="-134.64566929134" endy="326.968503937" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="125.9842519685" originy="-2.3622047244094" endx="125.9842519685" endy="-2.3622047244094" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="129.92125984252" originy="-2.3622047244094" startangle="-180.0" sweepangle="180.0" radius="3.9370078740157" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="133.85826771653" originy="-2.3622047244094" endx="133.85826771653" endy="-2.3622047244094" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="129.92125984252" originy="-2.3622047244094" startangle=".0" sweepangle="180.0" radius="3.9370078740157" width="7.8740157480314" />
+  </footprint>
+  <symbol name="3296W-1-102LF" originx="0" originy="0">
+    <line originx="200" originy="100" endx="800" endy="100" width="0" />
+    <line originx="800" originy="-300" endx="800" endy="100" width="0" />
+    <line originx="800" originy="-300" endx="200" endy="-300" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-300" width="0" />
+    <sympin number="1" originx="200" originy="-200" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="CCW" />
+      <text name="pindes" originx="140" originy="-180" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="WIPER" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="CW" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="3" />
+    </sympin>
+  </symbol>
+  <component name="3296W-1-102LF" designatorprefix="VR" height="464.56692913385" footprint="3296W1102LF">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="CCW" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="WIPER" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="CW" />
+    <attached_symbol gate="1" name="3296W-1-102LF" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="http://uk.rs-online.com/web/p/products/5219631" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Trimmer Resistors - Through Hole 3/8&quot; 1Kohms Sealed Vertical Adjust" />
+    <text name="RS Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="5219631" />
+    <text name="RS Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="http://uk.rs-online.com/web/p/products/5219631" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Bourns" />
+    <text name="Manufacturer_Part_Number" originx="850" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="3296W-1-102LF" />
+    <text name="Allied_Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="70153917" />
+  </component>
+</quadcept_library>

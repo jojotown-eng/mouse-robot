@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "2SJ681_Q_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-08-29-09:06:57)
+    (mountForm default
+        (footprintRef "TO230P250X650X900-3P")
+        (spec "System")
+    )
+)

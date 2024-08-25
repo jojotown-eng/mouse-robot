@@ -1,0 +1,16 @@
+.SLA7073MPRT :1 ;IC MOTOR DRIVER PAR 23SLA
+SLA7073MPRT
+*STM IC
+*NGS
+*PLB 1="OUTA_1" 2="OUTA_2" 3="OUTA/_1" 4="OUTA/_2" 5="SENSEA" 6="N.C." 7="M1" 8="M2" 9="M3" 10="CLOCK" 11="VBB" 12="GND" 13="REF/SLEEP1" 14="VDD" 15="RESET" 16="CW/CCW" 17="SYNC" 18="FLAG" 19="SENSEB" 20="OUTB/_1" 21="OUTB/_2" 22="OUTB_1" 23="OUTB_2"
+*MXP 23
+*DFN SLA7073MPRT
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (SANKEN ELECTRIC CO.)
+~!Manufacturer_Part_Number (SLA7073MPRT)
+~!Link Datasheet (http://www.semicon.sanken-ele.co.jp/sk_content/sla7070mprt_ds_en.pdf)
+~!Height (16mm)
+~!3D_Model (SLA7073MPRT)
+SLA7073MPRT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 

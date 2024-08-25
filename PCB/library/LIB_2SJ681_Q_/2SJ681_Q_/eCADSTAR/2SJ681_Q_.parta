@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_682461"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-22-10:44:59)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "2SJ681_Q_")
+)
+
+
+(pinAssign "ECS_682461"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-22-10:44:59)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "GATE") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "DRAIN") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "SOURCE") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_682461")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "2SJ681_Q_")
+)
+
+
+(part "2SJ681_Q_"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-22-10:44:59)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "2SJ681_Q_")
+    (pinAssignRef "ECS_682461")
+    (interface
+        (port "1" (symbPinId 1) (portName "GATE") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "DRAIN") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "SOURCE") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Q")
+    (property "description" "TOSHIBA Field Effect Transistor Silicon P Channel MOS Type (UMOSIII)")
+    (property "RS_Part_Number" "")
+    (property "RS_Price/Stock" "")
+    (property "Manufacturer_Name" "Toshiba")
+    (property "Manufacturer_Part_Number" "2SJ681(Q)")
+    (property "Datasheet_Link" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100039949.pdf")
+    (property "compAreaTopHeight" 2.5)
+)
+
+

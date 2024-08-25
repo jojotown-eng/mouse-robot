@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SLA7073MPRT
+D IC MOTOR DRIVER PAR 23SLA
+K
+F http://www.semicon.sanken-ele.co.jp/sk_content/sla7070mprt_ds_en.pdf
+$ENDCMP
+#
+#End Doc Library

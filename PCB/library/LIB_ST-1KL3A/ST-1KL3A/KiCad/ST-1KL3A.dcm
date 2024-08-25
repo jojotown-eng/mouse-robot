@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST-1KL3A
+D high-sensitivity NPN silicon phototransistor VCEO 40v VECO 6v IC 50mA TO-18 can 
+K
+F https://www.kodenshi.co.jp/files/product/ST-1KL3A.pdf
+$ENDCMP
+#
+#End Doc Library

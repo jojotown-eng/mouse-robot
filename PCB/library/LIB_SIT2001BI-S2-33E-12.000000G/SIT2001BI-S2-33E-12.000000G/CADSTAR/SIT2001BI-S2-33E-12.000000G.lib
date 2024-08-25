@@ -1,0 +1,16 @@
+.SIT2001BI-S2-33E-12.000000G :1 ;SITIME - SIT2001BI-S2-33E-12.000000G - CLOCK GENERATOR, 1-O/P, 12MHZ, SOT-23-5
+SOT95P280X130-5N
+*STM IC
+*NGS
+*PLB 1="GND" 2="NC" 3="OE/'ST'/NC" 4="VDD" 5="OUT"
+*MXP 5
+*DFN SIT2001BI-S2-33E-12.000000G
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (SiTime)
+~!Manufacturer_Part_Number (SIT2001BI-S2-33E-12.000000G)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS42/DSANUWW0050454.pdf)
+~!Height (1.3mm)
+~!3D_Model (SIT2001BI-S2-33E-12.000000G)
+SIT2001BI-S2-33E-12.000000G
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

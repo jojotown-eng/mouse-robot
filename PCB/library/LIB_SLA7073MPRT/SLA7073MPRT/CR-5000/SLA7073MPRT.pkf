@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SLA7073MPRT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SLA7073MPRT")
+        (spec "default")
+    )
+)

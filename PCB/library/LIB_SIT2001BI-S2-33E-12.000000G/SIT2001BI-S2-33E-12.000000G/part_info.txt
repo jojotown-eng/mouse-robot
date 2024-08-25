@@ -1,0 +1,9 @@
+Manufacturer=SiTime
+PartNumber=SIT2001BI-S2-33E-12.000000G
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2018-07-07 10:06:55
+Downloaded=2024-08-25 01:13:30
+3D=Y

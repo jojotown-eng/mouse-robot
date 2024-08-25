@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2SJ681_Q_
+D TOSHIBA Field Effect Transistor Silicon P Channel MOS Type (UMOSIII)
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100039949.pdf
+$ENDCMP
+#
+#End Doc Library

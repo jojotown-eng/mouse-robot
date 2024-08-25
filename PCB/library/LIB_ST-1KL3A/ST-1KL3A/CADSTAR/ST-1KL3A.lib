@@ -1,0 +1,16 @@
+.ST-1KL3A :1 ;high-sensitivity NPN silicon phototransistor VCEO 40v VECO 6v IC 50mA TO-18 can 
+ST1KL3A
+*STM Q
+*NGS
+*PLB 1="E" 2="C"
+*MXP 2
+*DFN ST-1KL3A
+~!RS Part Number (6051442)
+~!Link RS Price/Stock (https://uk.rs-online.com/web/p/products/6051442)
+~!Manufacturer_Name (KODENSHI)
+~!Manufacturer_Part_Number (ST-1KL3A)
+~!Link Datasheet (https://www.kodenshi.co.jp/files/product/ST-1KL3A.pdf)
+~!Height (6.7mm)
+~!3D_Model (ST-1KL3A)
+ST-1KL3A
+1.1!U 2.1!U 

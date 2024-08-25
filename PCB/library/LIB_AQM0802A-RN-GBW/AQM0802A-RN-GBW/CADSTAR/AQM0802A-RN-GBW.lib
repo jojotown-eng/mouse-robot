@@ -1,0 +1,15 @@
+.AQM0802A-RN-GBW :1 ;Display 1.5mm pitch
+AQM0802ARNGBW
+*STM DS
+*NGS
+*PLB 1="VO" 2="VOUT" 3="CAP1N" 4="CAP1P" 5="VDD" 6="VSS" 7="SDA" 8="SCL" 9="XRESTB"
+*MXP 9
+*DFN AQM0802A-RN-GBW
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (Costava)
+~!Manufacturer_Part_Number (AQM0802A-RN-GBW)
+~!Link Datasheet (http://akizukidenshi.com/download/ds/xiamen/AQM0802.pdf)
+~!Height (1.8mm)
+AQM0802A-RN-GBW
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

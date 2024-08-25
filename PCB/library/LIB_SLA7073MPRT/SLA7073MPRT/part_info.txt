@@ -1,0 +1,9 @@
+Manufacturer=SANKEN ELECTRIC CO.
+PartNumber=SLA7073MPRT
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=23
+Version=1.3
+Released=2018-07-09 12:18:24
+Downloaded=2024-08-23 06:02:39
+3D=Y

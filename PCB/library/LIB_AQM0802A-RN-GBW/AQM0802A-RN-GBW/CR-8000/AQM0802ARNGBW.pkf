@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "AQM0802ARNGBW"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "AQM0802ARNGBW")
+        (spec "default")
+    )
+)

@@ -1,0 +1,15 @@
+.OS5RKA5111P :1 ;LED; 5mm; red; 80000100000mcd; 15; Front: convex; Pitch:2.54mm
+OS5RKA5111P
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN OS5RKA5111P
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (OptoSupply)
+~!Manufacturer_Part_Number (OS5RKA5111P)
+~!Link Datasheet (http://akizukidenshi.com/download/ds/optosupply/OS5RKA5111P.pdf)
+~!Height (-)
+OS5RKA5111P
+1.1!U 2.1!U 

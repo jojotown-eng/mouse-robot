@@ -1,0 +1,113 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "QMB-111GPN"
+   (description "Magnetic Sounder")
+   (family "ANA")
+   (package "QMB111GPN")
+   (attribute "Datasheet Link" "")
+   (attribute "Geometry.Height" "8.5mm")
+   (attribute "RS Part Number" "")
+   (attribute "RS Price/Stock" "")
+   (attribute "Manufacturer_Name" "Star Micronics LTD")
+   (attribute "Manufacturer_Part_Number" "QMB-111GPN")
+   (gate
+    (symbol "QMB-111GPN")
+    (pin "2" 2 PS)
+    (pin ""  PS)
+   )
+  )
+  (symbol "QMB-111GPN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 280 50) (pt 380 150) (pt 380 -250) (pt 280 -150) (pt 200 -150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 200 -150))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "QMB111GPN"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -7 10.25)
+      (pt 7 10.25)
+      (pt 7 -4.6)
+      (pt -7 -4.6)
+      (pt -7 10.25))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -6 3.25)
+      (arc (pt -6.000 3.250) (pt -6.000 -2.750) (pt 6.000 9.250) (start 180.0) (sweep -180.0))
+      (pt 6 3.25)
+      (arc (pt 6.000 3.250) (pt -6.000 -2.750) (pt 6.000 9.250) (start 180.0) (sweep .0))
+      (pt -6 3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6 3.25)
+      (arc (pt -6.000 3.250) (pt -6.000 -2.750) (pt 6.000 9.250) (start 180.0) (sweep -180.0))
+      (pt 6 3.25)
+      (arc (pt 6.000 3.250) (pt -6.000 -2.750) (pt 6.000 9.250) (start 180.0) (sweep .0))
+      (pt -6 3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 -3.5)
+      (arc (pt 0.000 -3.500) (pt -0.050 -3.600) (pt 0.050 -3.500) (start 180.0) (sweep 90.0))
+      (pt 0 -3.6)
+      (arc (pt 0.000 -3.600) (pt -0.050 -3.600) (pt 0.050 -3.500) (start 180.0) (sweep -90.0))
+      (pt 0 -3.5)
+      (arc (pt 0.000 -3.500) (pt -0.050 -3.600) (pt 0.050 -3.500) (start 180.0) (sweep 90.0))
+      (pt 0 -3.6))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 0.000 6.500) (padstack 0))
+   (padstack 0
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (model "QMB-111GPN.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

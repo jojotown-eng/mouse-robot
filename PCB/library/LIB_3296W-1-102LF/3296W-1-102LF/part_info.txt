@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=3296W-1-102LF
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=3
+Version=1.3
+Released=2021-01-04 16:57:23
+Downloaded=2024-08-25 00:57:37
+3D=Y

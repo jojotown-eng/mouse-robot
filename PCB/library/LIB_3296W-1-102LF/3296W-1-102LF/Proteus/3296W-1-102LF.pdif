@@ -1,0 +1,114 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "3296W-1-102LF"
+   (description "Trimmer Resistors - Through Hole 3/8\" 1Kohms Sealed Vertical Adjust")
+   (family "ANA")
+   (package "3296W1102LF")
+   (attribute "Datasheet Link" "http://uk.rs-online.com/web/p/products/5219631")
+   (attribute "Geometry.Height" "11.8mm")
+   (attribute "RS Part Number" "5219631")
+   (attribute "RS Price/Stock" "http://uk.rs-online.com/web/p/products/5219631")
+   (attribute "Manufacturer_Name" "Bourns")
+   (attribute "Manufacturer_Part_Number" "3296W-1-102LF")
+   (attribute "Allied_Number" "70153917")
+   (gate
+    (symbol "3296W-1-102LF")
+    (pin "CCW" 1 PS)
+    (pin "WIPER" 2 PS)
+    (pin "CW" 3 PS)
+   )
+  )
+  (symbol "3296W-1-102LF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "3296W1102LF"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.42 7.305)
+      (pt 2.41 7.305)
+      (pt 2.41 -2.225)
+      (pt -2.42 -2.225)
+      (pt -2.42 7.305))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.42 7.305)
+      (pt 2.41 7.305)
+      (pt 2.41 -2.225)
+      (pt -2.42 -2.225)
+      (pt -2.42 7.305))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.42 8.305)
+      (pt 4.4 8.305)
+      (pt 4.4 -3.225)
+      (pt -3.42 -3.225)
+      (pt -3.42 8.305))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 3.2 -0.06)
+      (arc (pt 3.200 -0.060) (pt 3.200 -0.160) (pt 3.400 0.040) (start 180.0) (sweep -180.0))
+      (pt 3.4 -0.06)
+      (arc (pt 3.400 -0.060) (pt 3.200 -0.160) (pt 3.400 0.040) (start 180.0) (sweep .0))
+      (pt 3.2 -0.06))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 0.000 2.540) (padstack 0))
+   (leg 3 (pt 0.000 5.080) (padstack 0))
+   (padstack 0
+    (hole 0.71)
+    (plated true)
+    (pad (layer TCOP) (round 1.217))
+    (pad (layer INNER) (round 1.217))
+    (pad (layer BCOP) (round 1.217))
+   )
+   (model "3296W-1-102LF.stp"
+    (euler 0 -90 0)
+    (offset 0 2.5399999618530273 11.430000305175781)
+   )
+  )
+ )
+)

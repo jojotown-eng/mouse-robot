@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OS5RKA5111P'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "OptoSupply", "OS5RKA5111P" (!) = "", "OS5RKA5111P", "Other", "", "", "LED; 5mm; red; 80000100000mcd; 15; Front: convex; Pitch:2.54mm", "http://akizukidenshi.com/download/ds/optosupply/OS5RKA5111P.pdf"
+END_PART
+
+END.

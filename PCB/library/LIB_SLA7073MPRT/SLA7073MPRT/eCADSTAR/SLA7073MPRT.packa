@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SLA7073MPRT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-01-13-16:50:34)
+    (mountForm default
+        (footprintRef "SLA7073MPRT")
+        (spec "System")
+    )
+)

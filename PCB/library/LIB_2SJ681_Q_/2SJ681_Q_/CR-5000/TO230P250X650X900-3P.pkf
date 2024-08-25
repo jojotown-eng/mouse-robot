@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TO230P250X650X900-3P"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TO230P250X650X900-3P")
+        (spec "default")
+    )
+)

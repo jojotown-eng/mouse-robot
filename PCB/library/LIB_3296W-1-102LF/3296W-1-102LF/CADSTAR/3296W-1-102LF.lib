@@ -1,0 +1,17 @@
+.3296W-1-102LF :1 ;Trimmer Resistors - Through Hole 3/8" 1Kohms Sealed Vertical Adjust
+"3296W1102LF"
+*STM VR
+*NGS
+*PLB 1="CCW" 2="WIPER" 3="CW"
+*MXP 3
+*DFN 3296W-1-102LF
+~!RS Part Number (5219631)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/5219631)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (3296W-1-102LF)
+~!Allied_Number (70153917)
+~!Link Datasheet (http://uk.rs-online.com/web/p/products/5219631)
+~!Height (11.8mm)
+~!3D_Model (3296W-1-102LF)
+"3296W-1-102LF"
+1.1!U 2.1!U 3.1!U 

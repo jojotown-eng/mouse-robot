@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2SC1815GRTE2FT
+D Transistor Silicon NPN Epitaxial Type (PCT process)
+K
+F http://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf
+$ENDCMP
+#
+#End Doc Library

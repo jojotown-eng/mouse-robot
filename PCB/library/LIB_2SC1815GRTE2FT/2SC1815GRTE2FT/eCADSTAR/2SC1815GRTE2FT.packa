@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "2SC1815GRTE2FT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-05-13-12:26:12)
+    (mountForm default
+        (footprintRef "2SC1815GRTE2FT")
+        (spec "System")
+    )
+)

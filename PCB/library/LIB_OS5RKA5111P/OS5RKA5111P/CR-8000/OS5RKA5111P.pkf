@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "OS5RKA5111P"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "OS5RKA5111P")
+        (spec "default")
+    )
+)

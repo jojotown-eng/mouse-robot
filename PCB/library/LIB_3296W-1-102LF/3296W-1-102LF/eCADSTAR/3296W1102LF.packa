@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "3296W-1-102LF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-01-04-16:57:23)
+    (mountForm default
+        (footprintRef "3296W1102LF")
+        (spec "System")
+    )
+)

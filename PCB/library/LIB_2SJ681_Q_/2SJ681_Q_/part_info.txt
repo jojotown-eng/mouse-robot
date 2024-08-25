@@ -1,0 +1,9 @@
+Manufacturer=Toshiba
+PartNumber=2SJ681(Q)
+PartCategory=Transistor
+PackageCategory=Transistor Outline, Vertical
+PinCount=3
+Version=2.1
+Released=2017-03-22 10:44:59
+Downloaded=2024-08-23 04:50:49
+3D=Y

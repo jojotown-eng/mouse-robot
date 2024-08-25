@@ -1,0 +1,16 @@
+.2SC1815GRTE2FT :1 ;Transistor Silicon NPN Epitaxial Type (PCT process)
+"2SC1815GRTE2FT"
+*STM Q
+*NGS
+*PLB 1="E" 2="C" 3="B"
+*MXP 3
+*DFN 2SC1815GRTE2FT
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (2SC1815GRTE2FT)
+~!Link Datasheet (http://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf)
+~!Height (4.7mm)
+~!3D_Model (2SC1815GRTE2FT)
+"2SC1815GRTE2FT"
+1.1!U 2.1!U 3.1!U 

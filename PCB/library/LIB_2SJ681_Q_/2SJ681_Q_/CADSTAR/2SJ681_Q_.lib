@@ -1,0 +1,16 @@
+.2SJ681_Q_ :1 ;TOSHIBA Field Effect Transistor Silicon P Channel MOS Type (UMOSIII)
+TO230P250X650X900-3P
+*STM Q
+*NGS
+*PLB 1="GATE" 2="DRAIN" 3="SOURCE"
+*MXP 3
+*DFN 2SJ681_Q_
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (2SJ681(Q))
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100039949.pdf)
+~!Height (2.5mm)
+~!3D_Model (2SJ681_Q_)
+"2SJ681_Q_"
+1.1!U 2.1!U 3.1!U 
