@@ -1,4 +1,32 @@
-22639840044879737
+22657085021851826
+2SC1815GRTE2FT
+2SC1815GRTE2FT
+TO-92 SC-43 2-5F1B
+Transistor BJT NPN
+0
+3
+3
+2SJ681_Q_
+TO230P250X650X900-3P
+2-7J2B-1
+Transistor
+0
+3
+3
+3296W-1-102LF
+3296W1102LF
+3296W-1-102LF-1
+Variable Resistor
+0
+3
+3
+AQM0802A-RN-GBW
+AQM0802ARNGBW
+AQM0802A-RN-GBW-2
+Display
+0
+9
+9
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65344,6 +65372,13 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+NJM7805FA
+TO254P500X1000X2170-3P
+TO-220F-3_
+Integrated Circuit
+0
+3
+3
 NUCLEO-L432KC
 MODULE_NUCLEO-L432KC
 
@@ -65435,6 +65470,13 @@ net tie
 0
 4
 4
+OS5RKA5111P
+OS5RKA5111P
+OS5RKA5111P-1
+LED
+0
+2
+2
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
@@ -82592,6 +82634,13 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
+QMB-111GPN
+QMB111GPN
+QMB-111GPN-1
+Loudspeaker or Buzzer
+0
+2
+2
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -85770,6 +85819,27 @@ rotary encoder
 0
 7
 6
+SIT2001BI-S2-33E-12.000000G
+SOT95P280X130-5N
+SOT23-5
+Integrated Circuit
+0
+5
+5
+SLA7073MPRT
+SLA7073MPRT
+ZIP23 with Fin[SLA23Pin]
+Integrated Circuit
+0
+23
+23
+ST-1KL3A
+ST1KL3A
+TO-18_5.4x6.7h
+Phototransistor
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
