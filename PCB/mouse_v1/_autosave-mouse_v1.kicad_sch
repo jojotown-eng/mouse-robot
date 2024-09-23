@@ -3083,7 +3083,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "SENSORLED_1" (shape input) (at 334.01 116.84 180) (fields_autoplaced)
+  (global_label "SENSORLED_2" (shape input) (at 334.01 116.84 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 34c6cacf-dd9e-41e1-8683-b8ebf7bbe4f5)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 317.9016 116.84 0)
