@@ -9,6 +9,7 @@ public:
   ~Digital();
   void on();
   void off();
+  uint8 value();
 
 private:
   GPIO_TypeDef *digital_port;

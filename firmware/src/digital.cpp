@@ -14,3 +14,7 @@ void Digital::on(){
 void Digital::off(){
   HAL_GPIO_WritePin(digital_port, digital_pin, GPIO_PIN_RESET);
 }
+
+uint8 Digital::value(){
+  return HAL_GPIO_ReadPin(digital_port,digital_pin);
+}
